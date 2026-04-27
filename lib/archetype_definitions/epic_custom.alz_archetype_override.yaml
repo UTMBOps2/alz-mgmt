@@ -1,7 +1,6 @@
 base_archetype: platform
 name: epic_custom
-policy_assignments_to_add:
-  - "/providers/microsoft.authorization/policysetdefinitions/179d1daa-458f-4e47-8086-2a68d0d6c38f"
+policy_assignments_to_add: []
 policy_assignments_to_remove: []
 policy_definitions_to_add: []
 policy_definitions_to_remove: []
