@@ -71,4 +71,34 @@
   "exists": false
   "id": "decommissioned"
   "parent_id": "alz"
+- "archetypes":
+  - "epic_custom"
+  "display_name": "Epic"
+  "exists": false
+  "id": "epic"
+  "parent_id": "alz"
+- "archetypes":
+  - "sharedservices_custom"
+  "display_name": "SharedServices"
+  "exists": false
+  "id": "sharedservices"
+  "parent_id": "alz"
+- "archetypes":
+  - "epic_prod_custom"
+  "display_name": "Epic-Prod"
+  "exists": false
+  "id": "epic-prod"
+  "parent_id": "epic"
+- "archetypes":
+  - "epic_nonprod_custom"
+  "display_name": "Epic-NonProd"
+  "exists": false
+  "id": "epic-nonprod"
+  "parent_id": "epic"
+- "archetypes":
+  - "epic_shared_custom"
+  "display_name": "Epic-Shared"
+  "exists": false
+  "id": "epic-shared"
+  "parent_id": "epic"
 "name": "alz_custom"
